@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\ScProject\RandomName\bin\Release\RandomName.exe.config
+C:\Users\Administrator\Desktop\ScProject\RandomName\bin\Release\RandomName.exe
+C:\Users\Administrator\Desktop\ScProject\RandomName\obj\Release\RandomName.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ScProject\RandomName\obj\Release\RandomName.MainForm.resources
+C:\Users\Administrator\Desktop\ScProject\RandomName\obj\Release\RandomName.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ScProject\RandomName\obj\Release\RandomName.exe
